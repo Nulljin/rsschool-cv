@@ -1,1 +1,1 @@
-(https://github.com/Nulljin/rsschool-cv.git)
+https://github.com/Nulljin/rsschool-cv.git
